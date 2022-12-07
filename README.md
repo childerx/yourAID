@@ -1,2 +1,2 @@
 # yourAID
-'ve got you covered with Carrier COnductivity function, Total Surface Area function, 
+'ve got you covered with Carrier Conductivity function, Total Surface Area function, Mobility of Electrons fuctions and attached to it a Metlab Website...
